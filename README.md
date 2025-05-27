@@ -10,15 +10,15 @@
 ---
 
 ## blog 🏷️
-- 🍃 [介绍 Cookie 和 Token 的概念（英文）](https://github.com/dengaye/collector/issues/15)
-- 🍃 [前端构建系统介绍——](https://github.com/dengaye/collector/issues/13)
+- ❄️ [介绍 Cookie 和 Token 的概念（英文）](https://github.com/dengaye/collector/issues/15)
+- ❄️ [前端构建系统介绍——](https://github.com/dengaye/collector/issues/13)
 
 ---
 
 ## book 🏷️
-- 🛀 [【书英文】逆向工程](https://github.com/dengaye/collector/issues/37)
-- 🛀 [【电子书】Java 设计模式](https://github.com/dengaye/collector/issues/36)
-- 🛀 [【书】深入高可用系统原理与设计](https://github.com/dengaye/collector/issues/31)
+- 🎅 [【书英文】逆向工程](https://github.com/dengaye/collector/issues/37)
+- 🎅 [【电子书】Java 设计模式](https://github.com/dengaye/collector/issues/36)
+- 🎅 [【书】深入高可用系统原理与设计](https://github.com/dengaye/collector/issues/31)
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ## technical tips 🏷️
-- 🎅 [优化 JavaScript 代码的技巧 ](https://github.com/dengaye/collector/issues/23)
+- 🌱 [优化 JavaScript 代码的技巧 ](https://github.com/dengaye/collector/issues/23)
 
 ---
 
