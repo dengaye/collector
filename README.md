@@ -1,40 +1,42 @@
 # collector 📖
 ### Issue Summary
 - Total Issues: 30 📝
-- Unlabeled Issues: 3 ❓
+- Unlabeled Issues: 2 ❓
 
 ## Video & TV 🏷️
-- 📫 [Garden TV ——  全世界免费的 TV](https://github.com/dengaye/collector/issues/39)
-- 📫 [开源的字幕翻译工具](https://github.com/dengaye/collector/issues/38)
+- ❄️ [Garden TV ——  全世界免费的 TV](https://github.com/dengaye/collector/issues/39)
+- ❄️ [开源的字幕翻译工具](https://github.com/dengaye/collector/issues/38)
 
 ---
 
 ## blog 🏷️
-- 📫 [介绍 Cookie 和 Token 的概念（英文）](https://github.com/dengaye/collector/issues/15)
-- 📫 [前端构建系统介绍——](https://github.com/dengaye/collector/issues/13)
+- 🍃 [URL Design——怎么设计一个 URL](https://github.com/dengaye/collector/issues/43)
+- 🍃 [介绍 Cookie 和 Token 的概念（英文）](https://github.com/dengaye/collector/issues/15)
 
 ---
 
 ## book 🏷️
-- ✂️ [【书英文】逆向工程](https://github.com/dengaye/collector/issues/37)
-- ✂️ [【电子书】Java 设计模式](https://github.com/dengaye/collector/issues/36)
-- ✂️ [【书】深入高可用系统原理与设计](https://github.com/dengaye/collector/issues/31)
+- 🛀 [【书英文】逆向工程](https://github.com/dengaye/collector/issues/37)
+- 🛀 [【电子书】Java 设计模式](https://github.com/dengaye/collector/issues/36)
+- 🛀 [【书】深入高可用系统原理与设计](https://github.com/dengaye/collector/issues/31)
 
 ---
 
 ## Unlabeled Issues 🏷️
 -  [publiciptv —— 各国可用的公共免费 IPTV 频道集合](https://github.com/dengaye/collector/issues/35)
 -  [IFXIT—— 万能维修网站，免费](https://github.com/dengaye/collector/issues/34)
--  [fastdownload——可以下载视频，包括 TikTok、Youtube](https://github.com/dengaye/collector/issues/10)
 
 ---
 
 ## technical tips 🏷️
-- 🛀 [优化 JavaScript 代码的技巧 ](https://github.com/dengaye/collector/issues/23)
+- 👻 [优化 JavaScript 代码的技巧 ](https://github.com/dengaye/collector/issues/23)
 
 ---
 
 ## tool 🏷️
+- ✂️ [SummaryExpressive——安卓应用，用 AI 总结视频](https://github.com/dengaye/collector/issues/42)
+- ✂️ [DeepChat——强大的开源多模型AI聊天平台（支持各类主流 AI 模型）](https://github.com/dengaye/collector/issues/41)
+- ✂️ [online-collage-maker —— 在线拼接图片](https://github.com/dengaye/collector/issues/40)
 - ✂️ [好用的 Chrome 插件](https://github.com/dengaye/collector/issues/33)
 - ✂️ [贝塞尔区间在线预览](https://github.com/dengaye/collector/issues/32)
 - ✂️ [Bylo —— 免费的 AI 图像生成](https://github.com/dengaye/collector/issues/30)
@@ -52,8 +54,6 @@
 - ✂️ [免费将 YouTube 视频转吉他谱、和弦谱、主旋律，人声分离以及 AI 翻唱](https://github.com/dengaye/collector/issues/17)
 - ✂️ [TCP、HTTP 抓包、PCAP 文件分析软件——Wireshark](https://github.com/dengaye/collector/issues/16)
 - ✂️ [302 AI 超市](https://github.com/dengaye/collector/issues/14)
-- ✂️ [AIemoji —— 根据输入的提示生成 emoji](https://github.com/dengaye/collector/issues/12)
-- ✂️ [brev AI —— 在线音乐生成，无需注册](https://github.com/dengaye/collector/issues/11)
 
 ---
 
