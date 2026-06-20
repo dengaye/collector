@@ -4,8 +4,8 @@
 - Unlabeled Issues: 3 ❓
 
 ## AI 🏷️
-- 🎃 [MCP、SKILL、AGENT 集合](https://github.com/dengaye/collector/issues/58)
-- 🎃 [AI Comic Builder —— 一个 AI 驱动的漫剧/动画视频全自动生成工具](https://github.com/dengaye/collector/issues/56)
+- 📫 [MCP、SKILL、AGENT 集合](https://github.com/dengaye/collector/issues/58)
+- 📫 [AI Comic Builder —— 一个 AI 驱动的漫剧/动画视频全自动生成工具](https://github.com/dengaye/collector/issues/56)
 
 ---
 
@@ -16,14 +16,14 @@
 ---
 
 ## blog 🏷️
-- ✂️ [系统扩展的七个阶段（英文）](https://github.com/dengaye/collector/issues/51)
-- ✂️ [URL Design——怎么设计一个 URL](https://github.com/dengaye/collector/issues/43)
+- 🍃 [系统扩展的七个阶段（英文）](https://github.com/dengaye/collector/issues/51)
+- 🍃 [URL Design——怎么设计一个 URL](https://github.com/dengaye/collector/issues/43)
 
 ---
 
 ## book 🏷️
-- 🛀 [【书英文】逆向工程](https://github.com/dengaye/collector/issues/37)
-- 🛀 [【电子书】Java 设计模式](https://github.com/dengaye/collector/issues/36)
+- 🍁 [【书英文】逆向工程](https://github.com/dengaye/collector/issues/37)
+- 🍁 [【电子书】Java 设计模式](https://github.com/dengaye/collector/issues/36)
 
 ---
 
@@ -40,42 +40,42 @@
 ---
 
 ## tool 🏷️
-- 👯❄️ [pinta——开源的图像处理软件，PhotoShop 的替代品，支持各种桌面平台](https://github.com/dengaye/collector/issues/60)
-- 👯❄️ [Reqable——一款跨平台的专业 HTTP 开发、抓包和调试工具](https://github.com/dengaye/collector/issues/59)
-- 👯❄️ [World Monitor—— AI 驱动的全球实时情报监控仪表盘](https://github.com/dengaye/collector/issues/55)
-- 👯❄️ [Page Agent——使用自然语言操作你的 Web 应用](https://github.com/dengaye/collector/issues/54)
-- 👯❄️ [Mouse Gestures ——  Chrome 浏览器插件，使用鼠标滑动轨迹，完成各种浏览器操作](https://github.com/dengaye/collector/issues/53)
-- 👯❄️ [手机投屏到电脑上——scrcpy & QtScrcpy](https://github.com/dengaye/collector/issues/50)
-- 👯 [一款现代化、本地优先的 Office 文档预览与编辑——office-website](https://github.com/dengaye/collector/issues/49)
-- 👯❄️ [开源的点击阅读器 —— GoRead](https://github.com/dengaye/collector/issues/48)
-- 👯❄️ [Edge-next-starter——开源项目](https://github.com/dengaye/collector/issues/47)
-- 👯 [Green-Wall——生成你的 GitHub 年度报告](https://github.com/dengaye/collector/issues/46)
-- 👯❄️ [离线版问卷——开源 Web 应用](https://github.com/dengaye/collector/issues/45)
-- 👯❄️ [Rote——开源的 Web 笔记软件](https://github.com/dengaye/collector/issues/44)
-- 👯 [SummaryExpressive——安卓应用，用 AI 总结视频](https://github.com/dengaye/collector/issues/42)
-- 👯 [DeepChat——强大的开源多模型AI聊天平台（支持各类主流 AI 模型）](https://github.com/dengaye/collector/issues/41)
-- 👯 [online-collage-maker —— 在线拼接图片](https://github.com/dengaye/collector/issues/40)
-- 👯 [好用的 Chrome 插件](https://github.com/dengaye/collector/issues/33)
-- 👯 [贝塞尔区间在线预览](https://github.com/dengaye/collector/issues/32)
+- 🎅✂️ [pinta——开源的图像处理软件，PhotoShop 的替代品，支持各种桌面平台](https://github.com/dengaye/collector/issues/60)
+- 🎅✂️ [Reqable——一款跨平台的专业 HTTP 开发、抓包和调试工具](https://github.com/dengaye/collector/issues/59)
+- 🎅✂️ [World Monitor—— AI 驱动的全球实时情报监控仪表盘](https://github.com/dengaye/collector/issues/55)
+- 🎅✂️ [Page Agent——使用自然语言操作你的 Web 应用](https://github.com/dengaye/collector/issues/54)
+- 🎅✂️ [Mouse Gestures ——  Chrome 浏览器插件，使用鼠标滑动轨迹，完成各种浏览器操作](https://github.com/dengaye/collector/issues/53)
+- 🎅✂️ [手机投屏到电脑上——scrcpy & QtScrcpy](https://github.com/dengaye/collector/issues/50)
+- 🎅 [一款现代化、本地优先的 Office 文档预览与编辑——office-website](https://github.com/dengaye/collector/issues/49)
+- 🎅✂️ [开源的点击阅读器 —— GoRead](https://github.com/dengaye/collector/issues/48)
+- 🎅✂️ [Edge-next-starter——开源项目](https://github.com/dengaye/collector/issues/47)
+- 🎅 [Green-Wall——生成你的 GitHub 年度报告](https://github.com/dengaye/collector/issues/46)
+- 🎅✂️ [离线版问卷——开源 Web 应用](https://github.com/dengaye/collector/issues/45)
+- 🎅✂️ [Rote——开源的 Web 笔记软件](https://github.com/dengaye/collector/issues/44)
+- 🎅 [SummaryExpressive——安卓应用，用 AI 总结视频](https://github.com/dengaye/collector/issues/42)
+- 🎅 [DeepChat——强大的开源多模型AI聊天平台（支持各类主流 AI 模型）](https://github.com/dengaye/collector/issues/41)
+- 🎅 [online-collage-maker —— 在线拼接图片](https://github.com/dengaye/collector/issues/40)
+- 🎅 [好用的 Chrome 插件](https://github.com/dengaye/collector/issues/33)
+- 🎅 [贝塞尔区间在线预览](https://github.com/dengaye/collector/issues/32)
 
 ---
 
 ## 开源 🏷️
-- 👯❄️ [pinta——开源的图像处理软件，PhotoShop 的替代品，支持各种桌面平台](https://github.com/dengaye/collector/issues/60)
-- 👯❄️ [Reqable——一款跨平台的专业 HTTP 开发、抓包和调试工具](https://github.com/dengaye/collector/issues/59)
-- 👯❄️ [World Monitor—— AI 驱动的全球实时情报监控仪表盘](https://github.com/dengaye/collector/issues/55)
-- 👯❄️ [Page Agent——使用自然语言操作你的 Web 应用](https://github.com/dengaye/collector/issues/54)
-- 👯❄️ [Mouse Gestures ——  Chrome 浏览器插件，使用鼠标滑动轨迹，完成各种浏览器操作](https://github.com/dengaye/collector/issues/53)
-- 👯❄️ [手机投屏到电脑上——scrcpy & QtScrcpy](https://github.com/dengaye/collector/issues/50)
-- 👯❄️ [开源的点击阅读器 —— GoRead](https://github.com/dengaye/collector/issues/48)
-- 👯❄️ [Edge-next-starter——开源项目](https://github.com/dengaye/collector/issues/47)
-- 👯❄️ [离线版问卷——开源 Web 应用](https://github.com/dengaye/collector/issues/45)
-- 👯❄️ [Rote——开源的 Web 笔记软件](https://github.com/dengaye/collector/issues/44)
+- 🎅✂️ [pinta——开源的图像处理软件，PhotoShop 的替代品，支持各种桌面平台](https://github.com/dengaye/collector/issues/60)
+- 🎅✂️ [Reqable——一款跨平台的专业 HTTP 开发、抓包和调试工具](https://github.com/dengaye/collector/issues/59)
+- 🎅✂️ [World Monitor—— AI 驱动的全球实时情报监控仪表盘](https://github.com/dengaye/collector/issues/55)
+- 🎅✂️ [Page Agent——使用自然语言操作你的 Web 应用](https://github.com/dengaye/collector/issues/54)
+- 🎅✂️ [Mouse Gestures ——  Chrome 浏览器插件，使用鼠标滑动轨迹，完成各种浏览器操作](https://github.com/dengaye/collector/issues/53)
+- 🎅✂️ [手机投屏到电脑上——scrcpy & QtScrcpy](https://github.com/dengaye/collector/issues/50)
+- 🎅✂️ [开源的点击阅读器 —— GoRead](https://github.com/dengaye/collector/issues/48)
+- 🎅✂️ [Edge-next-starter——开源项目](https://github.com/dengaye/collector/issues/47)
+- 🎅✂️ [离线版问卷——开源 Web 应用](https://github.com/dengaye/collector/issues/45)
+- 🎅✂️ [Rote——开源的 Web 笔记软件](https://github.com/dengaye/collector/issues/44)
 
 ---
 
 ## 资源汇总 🏷️
-- ❄️ [微信公众号相关的开源项目](https://github.com/dengaye/collector/issues/57)
+- 🎃 [微信公众号相关的开源项目](https://github.com/dengaye/collector/issues/57)
 
 ---
 
