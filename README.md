@@ -141,7 +141,7 @@
 | 名称 | 说明 |
 |:-----|:-----|
 | **[Garden TV](https://github.com/dengaye/collector/issues/39)** | 全世界免费的 TV |
-| **[开源的字幕翻译工具](https://github.com/dengaye/collector/issues/38)** | — |
+| **[subtitle-translator](https://github.com/dengaye/collector/issues/38)** | 开源的字幕翻译工具 |
 
 ---
 
