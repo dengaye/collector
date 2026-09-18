@@ -4,7 +4,7 @@
 
 **收集一些有趣的东西（自动更新）**
 
-![Total](https://img.shields.io/badge/Total-63-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
+![Total](https://img.shields.io/badge/Total-64-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
 ![Unlabeled](https://img.shields.io/badge/Unlabeled-13-64748b?style=for-the-badge)
 
 <br/>
@@ -20,8 +20,8 @@
 |:-----|-----:|:-----|-----:|
 | [AI](#-ai) | `3` | [blog](#-blog) | `4` |
 | [book](#-book) | `3` | [new](#-new) | `1` |
-| [technical tips](#-technical-tips) | `1` | [tool](#-tool) | `35` |
-| [Video & TV](#-video--tv) | `2` | [开源](#-开源) | `11` |
+| [technical tips](#-technical-tips) | `1` | [tool](#-tool) | `36` |
+| [Video & TV](#-video--tv) | `2` | [开源](#-开源) | `12` |
 | [资源汇总](#-资源汇总) | `1` | [Unlabeled](#-unlabeled) | `13` |
 
 <br/>
@@ -88,12 +88,13 @@
 ### ✂️ tool
 
 <details>
-<summary><b>点击展开 · 35 items</b></summary>
+<summary><b>点击展开 · 36 items</b></summary>
 
 <br/>
 
 | 名称 | 说明 |
 |:-----|:-----|
+| **[tldraw](https://github.com/dengaye/collector/issues/64)** | 一个开源的无限画布 SDK，提供了完整的画布引擎和协作功能 |
 | **[jsos](https://github.com/dengaye/collector/issues/63)** | 有一个有趣的网站，网页上运行应用 |
 | **[pinta](https://github.com/dengaye/collector/issues/60)** | 开源的图像处理软件，PhotoShop 的替代品，支持各种桌面平台 |
 | **[Reqable](https://github.com/dengaye/collector/issues/59)** | 一款跨平台的专业 HTTP 开发、抓包和调试工具 |
@@ -148,12 +149,13 @@
 ### 🎅 开源
 
 <details>
-<summary><b>点击展开 · 11 items</b></summary>
+<summary><b>点击展开 · 12 items</b></summary>
 
 <br/>
 
 | 名称 | 说明 |
 |:-----|:-----|
+| **[tldraw](https://github.com/dengaye/collector/issues/64)** | 一个开源的无限画布 SDK，提供了完整的画布引擎和协作功能 |
 | **[Unlimitedn OCR](https://github.com/dengaye/collector/issues/62)** | 抄书模型 |
 | **[pinta](https://github.com/dengaye/collector/issues/60)** | 开源的图像处理软件，PhotoShop 的替代品，支持各种桌面平台 |
 | **[Reqable](https://github.com/dengaye/collector/issues/59)** | 一款跨平台的专业 HTTP 开发、抓包和调试工具 |
